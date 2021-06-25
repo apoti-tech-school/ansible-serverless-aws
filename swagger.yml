@@ -19,7 +19,7 @@ paths:
           schema:
             $ref: "#/definitions/Empty"
       x-amazon-apigateway-integration:
-        uri: "arn:aws:apigateway:ap-south-1:lambda:path/2015-03-31/functions/arn:aws:lambda:ap-south-1:174336093897:function:MyLambda/invocations"
+        uri: "arn:aws:apigateway:ap-south-1:lambda:path/2020-03-31/functions/arn:aws:lambda:ap-south-1:174336093897:function:MyLambda/invocations"
         responses:
           default:
             statusCode: "200"
