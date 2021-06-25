@@ -1,6 +1,6 @@
 ---
 
-aws_region: "ap-south-1"
+aws_region: "us-east-1"
 key_name: "key.pem"
 instance_type: "t2.micro"
 ami: "ami-5b673c34"
