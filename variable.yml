@@ -1,7 +1,7 @@
 ---
 
 aws_region: "us-east-1"
-key_name: "key.pem"
+key_name: "class.pem"
 instance_type: "t2.micro"
 ami: "ami-5b673c34"
 subnet_id: "subnet-96b828fe"
