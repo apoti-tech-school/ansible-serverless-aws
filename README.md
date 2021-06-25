@@ -1,1 +1,2 @@
-# ansible-serverless-archi-aws
+# Deploy-Serverless-Architecture
+Serverless Architecture on AWS platform
